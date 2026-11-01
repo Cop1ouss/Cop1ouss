@@ -1,0 +1,304 @@
+{
+  "_howto": "Add a new object to 'entries' for every milestone. date = YYYY-MM or YYYY-MM-DD. track = networking | security | systems | cloud | career. status = done | active | planned. Newest can go anywhere: the site sorts by date.",
+  "owner": {
+    "name": "Dajoni Gomez",
+    "handle": "Cop1ouss",
+    "brand": "Uncook",
+    "motto": "Built off systems",
+    "role": "IT Support Assistant · Lehman College (CUNY) IT Service Desk",
+    "location": "Bronx, NY",
+    "github": "https://github.com/Cop1ouss",
+    "linkedin": ""
+  },
+  "entries": [
+    {
+      "date": "2024-02",
+      "track": "systems",
+      "status": "done",
+      "title": "TestOut PC Pro certified",
+      "detail": "Hardware, operating systems and troubleshooting fundamentals. First certification.",
+      "tags": [
+        "certification",
+        "A+ prep"
+      ]
+    },
+    {
+      "date": "2024-06",
+      "track": "networking",
+      "status": "done",
+      "title": "A.A.S. Computer Network Administration",
+      "detail": "Associate degree focused on network administration. Finished with a 3.99 GPA.",
+      "tags": [
+        "degree"
+      ]
+    },
+    {
+      "date": "2024",
+      "track": "security",
+      "status": "done",
+      "title": "TestOut Security Pro, Linux Pro and Hybrid Server Pro: Core",
+      "detail": "Three more TestOut certifications covering security fundamentals, Linux administration and Windows Server in hybrid environments.",
+      "tags": [
+        "certification"
+      ]
+    },
+    {
+      "date": "2024-10",
+      "track": "networking",
+      "status": "done",
+      "title": "Junior Network Engineer intern · Mount Vernon City School District",
+      "detail": "Reimaged hundreds of Windows endpoints that auto-enrolled into Microsoft Intune, supported technicians across multiple school sites, and handled hardware lifecycle work.",
+      "tags": [
+        "internship",
+        "Intune",
+        "MDM",
+        "enterprise"
+      ]
+    },
+    {
+      "date": "2025-12",
+      "track": "career",
+      "status": "done",
+      "title": "B.S. Information Technology · The College of Westchester",
+      "detail": "Bachelor's degree completed (3.55 GPA); walked at commencement in May 2026.",
+      "tags": [
+        "degree"
+      ]
+    },
+    {
+      "date": "2026-01",
+      "track": "systems",
+      "status": "done",
+      "title": "Home lab: Windows Server domain controller",
+      "detail": "Built an Active Directory domain with a Windows Server DC, Windows 11 clients and Group Policy, to practice enterprise admin at home.",
+      "tags": [
+        "home lab",
+        "Active Directory",
+        "GPO"
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "track": "career",
+      "status": "active",
+      "title": "IT Support Assistant · Lehman College (CUNY)",
+      "detail": "Front-line IT Service Desk: tickets in ServiceNow, MFA and account support, student-facing guides, and an audit of the IT website's outdated content.",
+      "tags": [
+        "ServiceNow",
+        "help desk",
+        "MFA"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "track": "systems",
+      "status": "active",
+      "title": "Linux on AWS: EC2 learning box",
+      "detail": "Ubuntu 24.04 server on AWS EC2 for daily Linux ops, swap and fstab, Vim, and Neovim configuration.",
+      "tags": [
+        "Linux",
+        "AWS",
+        "Neovim"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "track": "security",
+      "status": "active",
+      "title": "OverTheWire Bandit",
+      "detail": "Wargame for SSH and Linux command-line fundamentals, level by level.",
+      "tags": [
+        "CTF",
+        "SSH",
+        "Linux"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "track": "networking",
+      "status": "active",
+      "title": "CCNA 200-301 restart",
+      "detail": "Restarted CCNA from scratch with Obsidian notes, Packet Tracer and GNS3 labs, and subnetting drills. Built a subnet calculator in Python along the way.",
+      "tags": [
+        "CCNA",
+        "Packet Tracer",
+        "subnetting"
+      ],
+      "links": [
+        {
+          "label": "CCNA Tracker",
+          "url": "https://cop1ouss.github.io/ccna-tracker/"
+        },
+        {
+          "label": "subnet-calculator",
+          "url": "https://github.com/Cop1ouss/subnet-calculator"
+        }
+      ]
+    },
+    {
+      "date": "2026-09",
+      "track": "cloud",
+      "status": "active",
+      "title": "Azure security path: AZ-900 → SC-900 → AZ-104 → SC-500",
+      "detail": "Main certification focus. Starting with AZ-900 on Microsoft Learn.",
+      "tags": [
+        "Azure",
+        "cloud security"
+      ]
+    },
+    {
+      "date": "2026-10",
+      "track": "security",
+      "status": "active",
+      "title": "gemscan: tracing nmap host discovery",
+      "detail": "Home-lab project: traced how nmap discovers hosts using reverse engineering tools, then rebuilt the idea clean-room in Python.",
+      "tags": [
+        "nmap",
+        "Ghidra",
+        "Python",
+        "home lab"
+      ]
+    },
+    {
+      "date": "2026-10",
+      "track": "systems",
+      "status": "active",
+      "title": "Uncook Bootcamp: 9-week Linux, Git and LazyVim",
+      "detail": "Self-grading missions, timed boss fights and a spaced-repetition command drill, built around the RHCSA objectives.",
+      "tags": [
+        "RHCSA",
+        "Bash",
+        "Git",
+        "LazyVim"
+      ]
+    },
+    {
+      "date": "2027",
+      "track": "networking",
+      "status": "planned",
+      "title": "CCNA exam",
+      "detail": "Target: pass CCNA 200-301.",
+      "tags": [
+        "certification"
+      ]
+    },
+    {
+      "date": "2027",
+      "track": "cloud",
+      "status": "planned",
+      "title": "AZ-900 → SC-500",
+      "detail": "Target: work through the Azure security certifications.",
+      "tags": [
+        "certification"
+      ]
+    },
+    {
+      "date": "2027",
+      "track": "systems",
+      "status": "planned",
+      "title": "RHCSA (EX200)",
+      "detail": "Target: pass the Red Hat Certified System Administrator exam after the bootcamp.",
+      "tags": [
+        "certification"
+      ]
+    }
+  ],
+  "lab": {
+    "nodes": [
+      {
+        "id": "isp",
+        "label": "Internet",
+        "kind": "cloud",
+        "x": 30,
+        "y": 30,
+        "note": "Spectrum ISP through a personal DOCSIS 3.1 modem"
+      },
+      {
+        "id": "fw",
+        "label": "Firewall / router",
+        "kind": "net",
+        "x": 30,
+        "y": 130,
+        "note": "Edge: NAT, firewall rules, DHCP"
+      },
+      {
+        "id": "sw",
+        "label": "Switch",
+        "kind": "net",
+        "x": 30,
+        "y": 240,
+        "note": "Access layer for the lab"
+      },
+      {
+        "id": "dc",
+        "label": "DC01",
+        "kind": "server",
+        "x": 220,
+        "y": 240,
+        "note": "Windows Server domain controller: AD DS, DNS, Group Policy"
+      },
+      {
+        "id": "win",
+        "label": "Win 11 clients",
+        "kind": "client",
+        "x": 220,
+        "y": 300,
+        "note": "Domain-joined test machines for GPO and troubleshooting"
+      },
+      {
+        "id": "pi",
+        "label": "Raspberry Pi",
+        "kind": "server",
+        "x": 220,
+        "y": 130,
+        "note": "Small Linux box for experiments"
+      },
+      {
+        "id": "aws",
+        "label": "AWS EC2",
+        "kind": "cloud",
+        "x": 410,
+        "y": 30,
+        "note": "Ubuntu 24.04 learning server for Linux ops and Neovim"
+      },
+      {
+        "id": "prox",
+        "label": "Proxmox (planned)",
+        "kind": "planned",
+        "x": 410,
+        "y": 240,
+        "note": "Planned hypervisor on used hardware to host the lab VMs"
+      }
+    ],
+    "links": [
+      [
+        "isp",
+        "fw"
+      ],
+      [
+        "fw",
+        "sw"
+      ],
+      [
+        "sw",
+        "dc"
+      ],
+      [
+        "sw",
+        "win"
+      ],
+      [
+        "sw",
+        "pi"
+      ],
+      [
+        "isp",
+        "aws"
+      ],
+      [
+        "sw",
+        "prox"
+      ]
+    ]
+  }
+}
