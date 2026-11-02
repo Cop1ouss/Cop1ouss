@@ -20,7 +20,6 @@ I'll acknowledge the report within **3 days**, share a fix plan within **7 days*
 ## How this repo is protected
 
 - **Dependabot** checks dependencies and GitHub Actions every week and opens update PRs.
-- **CodeQL** scans the code on every pull request and once a week.
 - **Secret scanning and push protection** block committed API keys and tokens.
 - **CI** must pass before anything merges into the default branch.
 
