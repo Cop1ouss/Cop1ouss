@@ -118,7 +118,7 @@
       "track": "networking",
       "status": "active",
       "title": "CCNA 200-301 restart",
-      "detail": "Restarted CCNA from scratch with Obsidian notes, Packet Tracer and GNS3 labs, and subnetting drills. Built a subnet calculator in Python along the way.",
+      "detail": "Restarted CCNA from scratch with Obsidian notes, Packet Tracer and GNS3 labs, and subnetting drills.",
       "tags": [
         "CCNA",
         "Packet Tracer",
@@ -128,10 +128,6 @@
         {
           "label": "CCNA Tracker",
           "url": "https://cop1ouss.github.io/ccna-tracker/"
-        },
-        {
-          "label": "subnet-calculator",
-          "url": "https://github.com/Cop1ouss/subnet-calculator"
         }
       ]
     },

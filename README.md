@@ -76,7 +76,6 @@ Most of these run in your browser. Click **Open** to use them, no install needed
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [subnet-calculator](https://github.com/Cop1ouss/subnet-calculator) | Command-line IPv4 subnet calculator with tests, built while studying for CCNA | Python (standard library only) |
 | [bronx-to-180](https://github.com/Cop1ouss/bronx-to-180) | Mobile-first personal fitness tracker with charts and habits, all stored locally | React · Vite · Recharts |
 
 </details>
