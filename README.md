@@ -18,6 +18,14 @@ I work the IT Service Desk at Lehman College (CUNY) and build my own tools on th
 
 My life is built off systems: I'd rather build the tracker, the script or the checklist once than wing it every time. Everything here is that habit in public.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-mocha.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-latte.svg">
+  <img alt="Animated terminal session: whoami, my current focus and a ping to my goals" src="assets/terminal-mocha.svg" width="100%">
+</picture>
+
+<img alt="" src="assets/divider-mocha.svg" width="100%">
+
 ## My security and networking journey
 
 <a href="https://cop1ouss.github.io/Cop1ouss/"><img alt="Explore the interactive journey" src="https://img.shields.io/badge/explore%20the%20interactive%20journey-%E2%86%92-cba6f7?style=for-the-badge&labelColor=1e1e2e"></a>
@@ -36,6 +44,18 @@ A live log of every milestone, a map of my home lab, and a terminal you can type
 
 **Next up:** CCNA exam · AZ-900 → SC-500 · RHCSA (EX200)
 <!-- JOURNEY:END -->
+
+### The home lab I practice on
+
+<a href="https://cop1ouss.github.io/Cop1ouss/#lab">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lab-mocha.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/lab-latte.svg">
+  <img alt="Animated map of my home lab: Internet, firewall, switch, DC01, Windows 11 clients, Raspberry Pi, AWS EC2 and a planned Proxmox host" src="assets/lab-mocha.svg" width="100%">
+</picture>
+</a>
+
+<img alt="" src="assets/divider-mocha.svg" width="100%">
 
 ## Try my projects
 
@@ -105,12 +125,24 @@ Most of these run in your browser. Click **Open** to use them, no install needed
 
 ## Roadmap
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metro-mocha.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/metro-latte.svg">
+  <img alt="Animated roadmap: Azure security, networking, Linux and Security+ lines, with a pulse on where I am now" src="assets/metro-mocha.svg" width="100%">
+</picture>
+
+<details>
+<summary><b>Roadmap as a table</b></summary>
+<br>
+
 | Track | Path | Status |
 | --- | --- | --- |
 | Azure security | AZ-900 → SC-900 → AZ-104 → SC-500 | ![in progress](https://img.shields.io/badge/AZ--900-in%20progress-cba6f7?style=flat-square&labelColor=1e1e2e) |
 | Networking | CCNA 200-301 | ![in progress](https://img.shields.io/badge/CCNA-in%20progress-cba6f7?style=flat-square&labelColor=1e1e2e) |
 | Linux | 9-week hands-on bootcamp → RHCSA | ![in progress](https://img.shields.io/badge/week-1%20of%209-cba6f7?style=flat-square&labelColor=1e1e2e) |
 | Done | TestOut PC Pro, Security Pro, Linux Pro, Hybrid Server Pro: Core | ![done](https://img.shields.io/badge/certified-4-a6e3a1?style=flat-square&labelColor=1e1e2e) |
+
+</details>
 
 <details>
 <summary><b>How I build: the Build Protocol</b></summary>
@@ -127,6 +159,8 @@ Every project goes through the same five phases, each with its own color:
 Every repo gets a README and a PRD. Unfinished projects get an honest call: keep going, cut scope, or shelve.
 
 </details>
+
+<img alt="" src="assets/divider-mocha.svg" width="100%">
 
 ## Activity
 
