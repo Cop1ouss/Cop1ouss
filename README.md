@@ -5,6 +5,8 @@
 </picture>
 
 <p align="center">
+  <a href="https://github.com/Cop1ouss/Cop1ouss/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/Cop1ouss/Cop1ouss/ci.yml?style=flat-square&label=CI&labelColor=1e1e2e&color=a6e3a1"></a>
+  <a href="SECURITY.md"><img alt="Security policy" src="https://img.shields.io/badge/security-policy-f38ba8?style=flat-square&labelColor=1e1e2e"></a>
   <img alt="Role" src="https://img.shields.io/badge/IT%20Support-Lehman%20College%20(CUNY)-8839ef?style=flat-square&labelColor=1e1e2e">
   <img alt="Location" src="https://img.shields.io/badge/based%20in-Bronx%2C%20NY-89b4fa?style=flat-square&labelColor=1e1e2e">
   <img alt="Focus" src="https://img.shields.io/badge/focus-Linux%20·%20Networking%20·%20Azure%20Security-a6e3a1?style=flat-square&labelColor=1e1e2e">
@@ -63,7 +65,7 @@ Most of these run in your browser. Click **Open** to use them, no install needed
     </td>
     <td width="50%" valign="top">
       <h3>⛨ Security+ Tracker</h3>
-      A gamified 42-day sprint for CompTIA Security+ (SY0-701). No build step, no backend: every page runs straight in the browser or as an installable app.<br><br>
+      A self-paced command center for CompTIA Security+ (SY0-701): all 28 objectives, a weighted readiness score and a practice-exam log. No build step, no backend.<br><br>
       <a href="https://cop1ouss.github.io/secplus-tracker/"><b>Open the tracker →</b></a> · <a href="https://github.com/Cop1ouss/secplus-tracker">Code</a><br>
       <sub>HTML · JavaScript · PWA</sub>
     </td>
