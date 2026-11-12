@@ -90,6 +90,15 @@ Most of these run in your browser. Click **Open** to use them, no install needed
       <sub>HTML · JavaScript · PWA</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁ Nimbus: Cloud Quest</h3>
+      A phone-first study game for AZ-900 and SC-900: a Codex with interactive 3D models, flashcards, 3D boss battles, timed mocks and a 40-level card battler. Installs on your phone as an app.<br><br>
+      <a href="https://cop1ouss.github.io/nimbus-cloud-quest/"><b>Open the app →</b></a> · <a href="https://github.com/Cop1ouss/nimbus-cloud-quest">Code</a><br>
+      <sub>HTML · JavaScript · CSS 3D · PWA</sub>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <details>
